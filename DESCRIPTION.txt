@@ -1,0 +1,7 @@
+Package: operation
+Type: Package
+Title: Perform some operation
+Version: 0.1
+Date: 2020-02-13
+Author: Kathrynn W
+Maintainer: Kathrynn W
