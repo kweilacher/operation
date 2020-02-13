@@ -1,3 +1,7 @@
+#' Perform som operation
+#' Given two input values, perform some arithmetic operation on them.
+#' 
+#' @param x A numeric object 
 
 operation <- function(x, y, op) {
   
